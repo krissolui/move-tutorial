@@ -1,5 +1,5 @@
 [package]
-name = "02-modules-scripts"
+name = "02-module-script"
 version = "0.0.0"
 
 [dependencies]
